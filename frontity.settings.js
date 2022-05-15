@@ -2,9 +2,9 @@ const settings = {
   "name": "software-blog",
   "state": {
     "frontity": {
-      "url": "https://test.frontity.org",
-      "title": "Test Frontity Blog",
-      "description": "WordPress installation for Frontity development"
+      "url": "https://software.pitang1965.com/",
+      "title": "定年後にWeb開発者目指す",
+      "description": "2019年1月から独学中の50代。"
     }
   },
   "packages": [
@@ -18,21 +18,13 @@ const settings = {
               "/"
             ],
             [
-              "Nature",
-              "/category/nature/"
+              "格安教材",
+              "/skill-set"
             ],
             [
-              "Travel",
-              "/category/travel/"
+              "自己紹介",
+              "/self-introduction"
             ],
-            [
-              "Japan",
-              "/tag/japan/"
-            ],
-            [
-              "About Us",
-              "/about-us/"
-            ]
           ],
           "featured": {
             "showOnList": false,
@@ -45,7 +37,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "url": "https://test.frontity.org"
+          "url": "https://software.pitang1965.com/"
         }
       }
     },
